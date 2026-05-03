@@ -67,7 +67,7 @@ token = os.getenv('BOT_TOKEN')
 
 5. **Run the bot**
 ```bash
-python bot.py
+python botreaction.py
 ```
 
 ## Commands
