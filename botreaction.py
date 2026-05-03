@@ -18,9 +18,9 @@ except:
     nltk.download('vader_lexicon')
 
 # Your credentials
-api_id = 22443142
-api_hash = '7ea7868085c6a83b5647df644199c41c'
-token = '8275983870:AAGdsF0apIb57a5Oa3wumdUVLC9tLBIN-jQ'
+api_id = id here
+api_hash = 'api hash here'
+token = 'bot token here'
 
 # Initialize VADER sentiment analyzer (more accurate than keywords)
 sia = SentimentIntensityAnalyzer()
